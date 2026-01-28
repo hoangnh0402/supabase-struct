@@ -1,6 +1,6 @@
 # supabase-struct
 
-Dự án này sử dụng kiến trúc **Client-Side Backend** dựa trên nguyên lý **Clean Architecture** (còn gọi là Hexagonal Architecture) để tách biệt logic nghiệp vụ khỏi giao diện (React) và hạ tầng (Supabase). Kiến trúc này giúp code dễ bảo trì, dễ test và dễ dàng thay thế backend trong tương lai.
+Dự án này sử dụng kiến trúc **Client-Side Backend** dựa trên nguyên lý **Clean Architecture** để tách biệt logic nghiệp vụ khỏi giao diện (React) và hạ tầng (Supabase). Kiến trúc này giúp code dễ bảo trì, dễ test và dễ dàng thay thế backend trong tương lai.
 
 ## Cấu Trúc Thư Mục
 
